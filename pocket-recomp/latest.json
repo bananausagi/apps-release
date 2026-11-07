@@ -1,0 +1,8 @@
+{
+  "packageName": "org.gen1recomp.japanese.preview",
+  "versionCode": 96,
+  "versionName": "0.2.96-personal",
+  "apkUrl": "https://github.com/bananausagi/apps-release/releases/download/pocket-recomp-v96/PocketRecomp-0.2.96-personal.apk",
+  "sha256": "370a6df03bec0213e6a16075ea704f2c87ca585d315e11c70e40a2aac05df7ca",
+  "notes": "自動アップデート機能を追加"
+}
