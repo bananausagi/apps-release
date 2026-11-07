@@ -1,0 +1,8 @@
+{
+  "packageName": "org.pinball.worldfield",
+  "versionCode": 140,
+  "versionName": "0.90",
+  "apkUrl": "https://github.com/bananausagi/apps-release/releases/download/pinball-recomp-v0.90/PinballRecomp-0.90.apk",
+  "sha256": "fd7233d23b45a27db4a4dd6d1441eff179624a3aabadff78ccc9ce7a8631ed36",
+  "notes": "自動アップデート機能を追加"
+}

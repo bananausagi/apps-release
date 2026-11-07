@@ -1,0 +1,8 @@
+{
+  "packageName": "org.pinball.collection",
+  "versionCode": 12,
+  "versionName": "0.39",
+  "apkUrl": "https://github.com/bananausagi/apps-release/releases/download/pinball-collection-v0.39/PinballCollection-0.39.apk",
+  "sha256": "3e2db0adb910b9169f799d084b25fe987de8d4fef373933591bd75259574007a",
+  "notes": "自動アップデート機能を追加"
+}
